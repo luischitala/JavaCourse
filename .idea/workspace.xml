@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="holaMundo.java:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="88f8a4e3-e175-4d8a-9be8-8b9d24bfef4e" name="Default Changelist" comment="" />
+    <list default="true" id="88f8a4e3-e175-4d8a-9be8-8b9d24bfef4e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/holaMundo_java_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IncrementDecrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogicOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathematicOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NamingJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpdatingVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +32,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1X0Oj6gUPxBOcZWDCVZuJ74rJIb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,10 +46,43 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataTypes.java" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
-    <configuration name="HolaMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HolaMundo" />
+  <component name="RunManager" selected="Application.LogicOperations">
+    <configuration name="Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Casting" />
+      <module name="holaMundo.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfStatement" />
+      <module name="holaMundo.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IncrementDecrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IncrementDecrement" />
+      <module name="holaMundo.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicOperations" />
+      <module name="holaMundo.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathematicOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MathematicOperations" />
       <module name="holaMundo.java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -33,7 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HolaMundo" />
+        <item itemvalue="Application.LogicOperations" />
+        <item itemvalue="Application.IfStatement" />
+        <item itemvalue="Application.Casting" />
+        <item itemvalue="Application.MathematicOperations" />
+        <item itemvalue="Application.IncrementDecrement" />
       </list>
     </recent_temporary>
   </component>
@@ -51,13 +112,53 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="601" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1580179683066">
+    <state x="576" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580258597809">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="601" y="226" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580179683066" />
+    <state x="576" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1580258597809" />
+    <state x="804" y="123" key="FileChooserDialogImpl" timestamp="1580257283445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="804" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580257283445" />
+    <state width="637" height="177" key="GridCell.Tab.0.bottom" timestamp="1580269118094">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580269118094" />
+    <state width="637" height="177" key="GridCell.Tab.0.center" timestamp="1580269118094">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580269118094" />
+    <state width="637" height="177" key="GridCell.Tab.0.left" timestamp="1580269118094">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580269118094" />
+    <state width="637" height="177" key="GridCell.Tab.0.right" timestamp="1580269118094">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580269118094" />
+    <state x="326" y="0" key="SettingsEditor" timestamp="1580258626555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="326" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580258626555" />
+    <state x="601" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1580252090777">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="601" y="226" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580252090777" />
     <state x="756" y="0" width="607" height="728" key="find.popup" timestamp="1580179865519">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="756" y="0" width="607" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1580179865519" />
+    <state x="131" y="0" key="new project wizard" timestamp="1580252511773">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1580252511773" />
+    <state x="680" y="166" key="run.anything.popup" timestamp="1580183322359">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="680" y="166" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1580183322359" />
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580183750431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580183750431" />
   </component>
 </project>
